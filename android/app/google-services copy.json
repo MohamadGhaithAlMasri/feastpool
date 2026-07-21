@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "839889551922",
+    "project_id": "feastpool-f6470",
+    "storage_bucket": "feastpool-f6470.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839889551922:android:0bee3c676dc2eb7d22b22b",
+        "android_client_info": {
+          "package_name": "com.example.food"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBifRr805vk6bRYOyVrkY7u2xU-zSpC1PQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
